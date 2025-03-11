@@ -18,3 +18,5 @@ Name :: Kulwinder Kaur  Degree :: MA  Alma Mater :: IK Gujral University
 Name :: Mudit Sandhu  Degree :: MBA  Alma Mater :: Maharishi Markandeshwar Univ
 Name :: Rajeev Kumar  Degree :: M.Sc  Alma Mater :: GLA University
 Name :: Gannu Ram  Degree :: MA  Alma Mater :: Patna University
+Name :: Mohit Garg  Degree :: MCA  Alma Mater :: Doon University
+Name :: Shri Saini  Degree :: M.Tech CSE  Alma Mater :: IIT Jodhpur
