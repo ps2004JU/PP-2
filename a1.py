@@ -10,6 +10,8 @@ while True:
     a.write(f"Name :: {a11}  ")
     a12=input("Enter degree of the person :: ")  
     a.write(f"Degree :: {a12}  ")
-    ind+=1  
+    a13=input("Enter Alma Mater of the person :: ")  
+    a.write(f"Alma Mater :: {a13}\n")
+    ind+=1        
 print("Thank you")    
 a.close()     
