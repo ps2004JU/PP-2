@@ -5,3 +5,5 @@ a = {
 }
 d = pd.DataFrame(a,index=range(1,4))
 print(d)
+d.to_csv("M2.csv")
+
