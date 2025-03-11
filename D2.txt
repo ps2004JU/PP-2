@@ -5,3 +5,16 @@ Name :: Derrick Thomas  Degree :: M Tech  Alma Mater :: Scaler Bengaluru
 Name :: Garvit  Degree :: MCA  Alma Mater :: JU
 Name :: Niloy  Degree :: B-Tech  Alma Mater :: KIIT
 Name :: Modi  Degree :: MA  Alma Mater :: Delhi University
+Name :: Amit Harjai  Degree :: MCA  Alma Mater :: Chandigarh University
+Name :: Gagandeep Chaddha  Name :: Gagandeep Chaddha  Degree :: MCA  Alma Mater :: Chandigarh University
+Name :: Ram  Name :: Shaheen Khan  Degree :: MCA  Alma Mater :: VGU
+Name :: Mushtaq Khan  Degree :: Msc  Alma Mater :: Miranda College
+Name :: Om Shinde  Degree :: M.Com  Alma Mater :: Mumbai University
+Name :: Krishan Khandelwal  Degree :: B.Tech-CSE  Alma Mater :: Manipal University
+Name :: Om Ambedkar  Degree :: MBA  Alma Mater :: Avantika University
+Name :: Raja Jha  Degree :: B.Tech CSE  Alma Mater :: IIT Patna
+Name :: Rampreet Sandhu  Degree :: M.Des  Alma Mater :: Chandigarh University
+Name :: Kulwinder Kaur  Degree :: MA  Alma Mater :: IK Gujral University
+Name :: Mudit Sandhu  Degree :: MBA  Alma Mater :: Maharishi Markandeshwar Univ
+Name :: Rajeev Kumar  Degree :: M.Sc  Alma Mater :: GLA University
+Name :: Gannu Ram  Degree :: MA  Alma Mater :: Patna University
