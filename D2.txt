@@ -4,3 +4,4 @@ Name :: Abdul Rehman  Degree :: MBA  Alma Mater :: Parul University
 Name :: Derrick Thomas  Degree :: M Tech  Alma Mater :: Scaler Bengaluru
 Name :: Garvit  Degree :: MCA  Alma Mater :: JU
 Name :: Niloy  Degree :: B-Tech  Alma Mater :: KIIT
+Name :: Modi  Degree :: MA  Alma Mater :: Delhi University
