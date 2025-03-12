@@ -22,3 +22,15 @@ Name :: Mohit Garg  Degree :: MCA  Alma Mater :: Doon University
 Name :: Shri Saini  Degree :: M.Tech CSE  Alma Mater :: IIT Jodhpur
 Name :: Munnu  Degree :: BA  Alma Mater :: Rajasthan University
 Name :: Munna  Degree :: BA  Alma Mater :: Kota District College
+Name :: Muskaan Singh  Degree :: MBA  Alma Mater :: University of Melbourne
+Name :: Munna Giri  Degree :: M.Sc  Alma Mater :: Patna University
+Name :: Mishti Saini  Degree :: BA in Political Sci  Alma Mater :: Rajasthan University
+Name :: Mushtaq Ali  Degree :: MCA  Alma Mater :: JECRC University
+Name :: Derek Matthew  Degree :: M.Tech CSE  Alma Mater :: Christ University
+Name :: Seema Bano  Degree :: MA English Hons.  Alma Mater :: Lady Sri Ram College
+Name :: Suresh Chand Yadav  Degree :: M.Com  Alma Mater :: Rajasthan University
+Name :: Amit Paul  Degree :: B.Tech CSE  Alma Mater :: IIT BHU
+Name :: Rafiq Khan  Degree :: BA Economics  Alma Mater :: Rajasthan University
+Name :: Venu Shankar Iyer  Degree :: M.Tech  Alma Mater :: IIT Madras
+Name :: Laxmi Rao  Degree :: B.Sc Nursing  Alma Mater :: RUHS
+Name :: Namita Singh  Degree :: MBA  Alma Mater :: IIM Ahmedabad
